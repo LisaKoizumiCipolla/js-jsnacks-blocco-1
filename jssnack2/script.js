@@ -2,7 +2,7 @@
 const guest = (prompt("Insert your Name"));
 
 //List of authorised accounts
-let authorisedGuest = [ "Verdandi" , "Amaterasu" , "Varda" , "Huitzilopochtli" , "Eurinome" ];
+const authorisedGuest = [ "Verdandi" , "Amaterasu" , "Varda" , "Huitzilopochtli" , "Eurinome" ];
 
 //Message variable
 let access;
